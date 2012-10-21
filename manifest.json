@@ -1,0 +1,13 @@
+{
+	"name": "Github",
+	"description": "Github - Social Coding",
+	"version": "1.0",
+	"icons": {
+			"128": "128.png"},
+	"app": {
+			"urls": ["http://github.com"] ,
+			"launch": {"web_url": "http://github.com"}
+			},
+	"permissions": [],
+	"manifest_version": 2
+}
