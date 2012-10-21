@@ -1,0 +1,2 @@
+Chrome-Shortcut-Template
+========================
